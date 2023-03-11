@@ -21,7 +21,7 @@ I am also an open-source and crypto especialy binance enthusiast and maintainer.
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
   
 - 💼 Any freelance work? do reach, [email](mailto:danishmehmood981@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
