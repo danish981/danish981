@@ -1,17 +1,16 @@
 ### Hey there
 
-<a href="https://www.instagram.com/danish981/">
-  <img align="left" alt="danish's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
 <a href="https://discord.gg/danish981#1254">
-  <img align="left" alt="danish's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="danish's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/danish981">
-  <img align="left" alt="danish Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="danish | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/danish981/">
-  <img align="left" alt="danish's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
+<a href="[https://twitter.com/danish981](https://stackoverflow.com/users/10849001/danish-mehmood)">
+  <img align="left" alt="danish | stackoverflow" width="25px" src="https://user-images.githubusercontent.com/42686972/224546711-9e58c05f-7316-4e12-8016-cd655185ef0e.png" />
 </a>
+
 
 <br><br>
 
