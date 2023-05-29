@@ -5,7 +5,7 @@ I'm a passionate full stack web developer and freelance software engineer from P
 Here are some key points about me:
 
 - 💼 Currently available for freelance work. You can reach me at [danishmehmood981@gmail.com](mailto:danishmehmood981@gmail.com)
-- 🚀 Experienced in building web applications using Laravel, JavaScript (Vue.js and React), GraphQL, and Node.js.
+- 🚀 Experienced in building web applications using Laravel, JavaScript (Vue.js), MySQL, PostgreSQL and SQLite.
 - 📦 Proficient in containerization with Docker and working in Linux (Ubuntu) environments.
 - 🔒 Prioritize security and privacy in my development process to ensure robust and secure applications.
 - 💡 Open-source enthusiast and contributor, leveraging the power of collaboration and knowledge sharing.
@@ -17,9 +17,23 @@ Here are some key points about me:
 -  MySQL, SQLite, PostgreSQL
 - Git, Docker, Linux (Ubuntu)
 
-**GitHub Stats:**
-
 ![Danish Mehmood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish981&show_icons=true&theme=gotham)
+
+📈 **Profile Visits:**
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=danish981.danish981)
+
+**GitHub Contributions:**
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=danish981&theme=dark)
+
+**Recent Activity:**
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123](https://github.com/danish981/repo/pull/123) in [danish981/repo](https://github.com/danish981/repo)
+2. 🎉 Released version 1.2.0 of [awesome-project](https://github.com/danish981/awesome-project)
+3. ❗️ Closed issue [#456](https://github.com/danish981/repo/issues/456) in [danish981/repo](https://github.com/danish981/repo)
+<!--END_SECTION:activity-->
+
+👨‍💻 **Coding Activity:**
+![Coding Activity](https://github.com/danish981/danish981/blob/main/code.gif?raw=true)
 
 If you would like to connect or have any questions, feel free to reach out to me through [email](mailto:danishmehmood981@gmail.com). I'm always excited to collaborate on interesting projects and contribute to the development community!
 
