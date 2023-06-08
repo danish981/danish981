@@ -1,40 +1,32 @@
-### Hey there, I'm Danish Mehmood! 👋
+# Hi there, I'm Danish Mehmood! 👋
 
-I'm a passionate full stack web developer and freelance software engineer from Pakistan. I specialize in PHP (Laravel), JavaScript, and API development. With a strong focus on code quality and elegant interfaces, I enjoy turning ideas into reality through my software development skills.
+Welcome to my GitHub profile! I'm a passionate full stack web developer and freelance software engineer from Pakistan. I specialize in PHP (Laravel), JavaScript, and API development. With a strong focus on code quality and elegant interfaces, I enjoy turning ideas into reality through my software development skills.
 
-Here are some key points about me:
+## Skills and Expertise
 
-- 💼 Currently available for freelance work. You can reach me at [danishmehmood981@gmail.com](mailto:danishmehmood981@gmail.com)
-- 🚀 Experienced in building web applications using Laravel, JavaScript (Vue.js), MySQL, PostgreSQL and SQLite.
-- 📦 Proficient in containerization with Docker and working in Linux (Ubuntu) environments.
-- 🔒 Prioritize security and privacy in my development process to ensure robust and secure applications.
-- 💡 Open-source enthusiast and contributor, leveraging the power of collaboration and knowledge sharing.
-- 📊 Passionate about data-driven decision making and continuously strive for code improvement.
+I have extensive experience and expertise in various technologies and tools. Here's a breakdown of my skills:
 
-**Languages and Tools:**
+- **Programming Languages:** I am proficient in PHP and JavaScript, utilizing them to build robust and scalable web applications.
+- **Frameworks and Libraries:** Laravel is my go-to PHP framework for developing efficient and feature-rich web applications. I also have experience with Vue.js for building interactive user interfaces.
+- **Databases:** I have worked with MySQL, PostgreSQL, and SQLite, designing optimized database structures and writing efficient queries.
+- **IDEs:** I am comfortable working with popular IDEs such as PHPStorm, VSCode, and Sublime Text, leveraging their powerful features for enhanced productivity.
 
-- PHP (Laravel), JavaScript
--  MySQL, SQLite, PostgreSQL
-- Git, Docker, Linux (Ubuntu)
+## Projects and Contributions
+
+Throughout my career, I have been actively involved in various projects and contributions, demonstrating my expertise and dedication to the field. Here are some highlights:
+
+- **Web Application Development:** I have developed and deployed robust web applications using the Laravel framework, implementing best practices and industry standards to ensure high performance and security.
+- **API Development:** Building RESTful APIs is one of my core competencies. I have designed and developed APIs that enable seamless integration with third-party services and ensure smooth communication between different components of a system.
+- **Database Design and Optimization:** With my strong understanding of database concepts and query optimization techniques, I have designed efficient database structures and written optimized queries to ensure fast and reliable data retrieval.
+- **Open-Source Contributions:** I am a strong advocate of open-source software and have contributed to various projects. By collaborating with developers worldwide, I actively contribute to the growth and improvement of the development community.
+
+## GitHub Stats
 
 ![Danish Mehmood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish981&show_icons=true&theme=gotham)
 
-📈 **Profile Visits:**
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=danish981.danish981)
+## Contact Me
 
-**GitHub Contributions:**
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=danish981&theme=dark)
+I'm always excited to connect with fellow developers, collaborate on interesting projects, and contribute to the development community. If you have any questions, project ideas, or just want to say hello, feel free to reach out to me via email at [danishmehmood981@gmail.com](mailto:danishmehmood981@gmail.com).
 
-**Recent Activity:**
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/danish981/repo/pull/123) in [danish981/repo](https://github.com/danish981/repo)
-2. 🎉 Released version 1.2.0 of [awesome-project](https://github.com/danish981/awesome-project)
-3. ❗️ Closed issue [#456](https://github.com/danish981/repo/issues/456) in [danish981/repo](https://github.com/danish981/repo)
-<!--END_SECTION:activity-->
+Let's create amazing things together!
 
-👨‍💻 **Coding Activity:**
-![Coding Activity](https://github.com/danish981/danish981/blob/main/code.gif?raw=true)
-
-If you would like to connect or have any questions, feel free to reach out to me through [email](mailto:danishmehmood981@gmail.com). I'm always excited to collaborate on interesting projects and contribute to the development community!
-
-Thank you for visiting my profile! ☺️
